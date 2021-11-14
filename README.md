@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samirmahmud0000
+- 👋 Hi, I’m @samirmahmud0000  SAMIR MAHMUD
 - 👀 I’m interested in ..music,movies,cosplay and etc
 - 🌱 I’m currently learning ...react and C#
 - 💞️ I’m looking to collaborate on ...some things
