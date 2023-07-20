@@ -34,19 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirmahmud0000&" alt="samirmahmud0000" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirmahmud0000&label=Profile%20views&color=0e75b6&style=flat" alt="samirmahmud0000" /> </p>
-
-- 🔭 I’m currently working on **Fortinet**
-
-- 🌱 I’m currently learning **C++,C#,Mysql,java**
-
-- 👯 I’m looking to collaborate on **Wordpress,Web-developing sites**
-
-- 📫 How to reach me **samir10mahmud@hotmail.com**
-
-- ⚡ Fun fact **Yeahh,, sure . Iam very funny guy.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@samirmahmud12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samirmahmud12" height="30" width="40" /></a>
