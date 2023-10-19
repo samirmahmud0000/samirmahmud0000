@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samir Mahmud</h1>
+<h1 align="center">Hi 👋, I'm Samir </h1>
 <h3 align="center">A Cybersecurity Enthuasiast - Explore the world of Cybersecurity</h3>
 <img align="right" alt="Coding" height="500" width="800" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
 
