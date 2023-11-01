@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samir </h1>
 <h3 align="center">A Cybersecurity Enthuasiast - Explore the world of Cybersecurity</h3>
-<img align="right" alt="Coding" height="400" width="700" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
+<img align="right" alt="Coding" height="500" width="800" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirmahmud0000&label=Profile%20views&color=0e75b6&style=flat" alt="samirmahmud0000" /> </p>
 
