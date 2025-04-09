@@ -57,3 +57,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samirmahmud0000&show_icons=true&locale=en&layout=compact" alt="samirmahmud0000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirmahmud0000&" alt="samirmahmud0000" /></p>
+
+## 🐍 Daily Contribution 
+
+![snake gif](https://github.com/samirmahmud0000/samirmahmud0000/blob/output/github-contribution-grid-snake.svg)
+
