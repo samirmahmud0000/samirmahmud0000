@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate GitHub Snake SVG
@@ -20,8 +20,10 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push SVG to output branch
+      - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
           message: "🐍 Generate GitHub Snake"
           add: "output/github-contribution-grid-snake.svg"
