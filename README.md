@@ -34,5 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirmahmud0000&" alt="samirmahmud0000" /></p>
 
-![snake gif](https://github.com/samirmahmud0000/samirmahmud0000/blob/output/github-contribution-grid-snake.svg)
-
