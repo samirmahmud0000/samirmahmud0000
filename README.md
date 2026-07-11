@@ -2,7 +2,7 @@
 <h3 align="center">A Cybersecurity Enthuasiast - Explore the world of Cybersecurity</h3>
 <img align="right" alt="Coding" height="500" width="800" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirmahmud0000&label=Profile%20views&color=0e75b6&style=flat" alt="samirmahmud0000" /> </p>
+<p align="left"> <img src="https://github.com/rudrabarad/Gifs" alt="samirmahmud0000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirmahmud0000" alt="samirmahmud0000" /></a> </p>
 
