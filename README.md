@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samir </h1>
 <h3 align="center">A Cybersecurity Enthuasiast - Explore the world of Cybersecurity</h3>
-<img align="right" alt="Coding" height="500" width="800" src="https://in.pinterest.com/pin/overworked-gif--175781191697537531/">
+<img align="right" alt="Coding" height="500" width="800" src="https://medium.com/@albertcavalcante/how-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2">
 
 <p align="left"> <img src="https://github.com/rudrabarad/Gifs" alt="samirmahmud0000" /> </p>
 
